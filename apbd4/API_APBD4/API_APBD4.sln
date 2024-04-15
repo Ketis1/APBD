@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_APBD4", "API_APBD4.csproj", "{EB1EA0D1-4D26-4954-B1F4-AC8A32433BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1EA0D1-4D26-4954-B1F4-AC8A32433BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1EA0D1-4D26-4954-B1F4-AC8A32433BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1EA0D1-4D26-4954-B1F4-AC8A32433BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1EA0D1-4D26-4954-B1F4-AC8A32433BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
